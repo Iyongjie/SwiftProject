@@ -1,0 +1,62 @@
+PODS:
+  - Alamofire (4.9.0)
+  - CryptoSwift (1.1.2)
+  - Eureka (4.3.1)
+  - Kingfisher (4.10.1)
+  - MJRefresh (3.2.0)
+  - Moya (13.0.1):
+    - Moya/Core (= 13.0.1)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - Result (4.1.0)
+  - RxSwift (5.0.0)
+  - SAMKeychain (1.5.3)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (5.0.0)
+  - XLForm (3.3.0)
+
+DEPENDENCIES:
+  - CryptoSwift
+  - Eureka
+  - Kingfisher
+  - MJRefresh
+  - Moya
+  - RxSwift
+  - SAMKeychain
+  - SnapKit
+  - SwiftyJSON
+  - XLForm
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CryptoSwift
+    - Eureka
+    - Kingfisher
+    - MJRefresh
+    - Moya
+    - Result
+    - RxSwift
+    - SAMKeychain
+    - SnapKit
+    - SwiftyJSON
+    - XLForm
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  CryptoSwift: 31dacd1f13427439ddae5b5cbaae4c8dbc43047e
+  Eureka: 28ea296f06710f6745266b71f17862048941a32d
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+  SAMKeychain: 483e1c9f32984d50ca961e26818a534283b4cd5c
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  XLForm: d5c391dfc62865927b5bcab0a5a0dbfb3e02b0ec
+
+PODFILE CHECKSUM: 24cfe26e8631a7cd4b288b93be629c8ed97423c6
+
+COCOAPODS: 1.7.4
